@@ -1,0 +1,1071 @@
+canonical_identifier: bkk:krp/KR3eu023/v1
+canonical_location: https://kanripo.org/bkk/KR3eu023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫宗金鑑·眼科心法要訣
+  identifiers:
+    krp: KR3eu023
+  tags:
+    kr-categories: KR3eu
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu023.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3eu023_001.yaml, hash: 'sha256:aab7dc7f23d47a64ebcc1e1fa44cfb23a7c9c7e2e5c23619d02efc0cc7b16689'}
+  - {seq: 2, filename: KR3eu023_002.yaml, hash: 'sha256:a467deef541bbe5ea7ae9e6b35da986529816364394c2f29cb03b6b1864ff768'}
+  - {seq: 0, filename: KR3eu023_000.yaml, hash: 'sha256:755250ac62583e1a9c01f208191d96769802f99576c009279778de7cafc2366a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eu023_001.markers.yaml, hash: 'sha256:982e0552a4ae1b26b029d1350c8bc4dcee5776851200b89e296f2d71898e4446'}
+  - {seq: 2, role: markers, filename: assets/KR3eu023_002.markers.yaml, hash: 'sha256:229cab17355dc26d2c96c32f95d99087987b25fcf9c988bf266d6c576e5dbd3c'}
+  - {seq: 0, role: markers, filename: assets/KR3eu023_000.markers.yaml, hash: 'sha256:66d432da0ea6486c0772a6716d87cb438a34497eeb9beca1ac5e07dfe97c4332'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 7689
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 183
+  label: 目睛原始歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d3
+    span:
+    - body
+    - 183
+    - 317
+  label: 五輪所屬部位歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d4
+    span:
+    - body
+    - 317
+    - 422
+  label: 五輪主五臟病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d5
+    span:
+    - body
+    - 422
+    - 641
+  label: 八廓部位歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d6
+    span:
+    - body
+    - 641
+    - 953
+  label: 八廓所屬歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d7
+    span:
+    - body
+    - 953
+    - 1269
+  label: 八廓主六腑命門包絡病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d8
+    span:
+    - body
+    - 1269
+    - 1410
+  label: 內因為病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d9
+    span:
+    - body
+    - 1410
+    - 1546
+  label: 外因為病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d10
+    span:
+    - body
+    - 1546
+    - 1660
+  label: 不內外因為病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d11
+    span:
+    - body
+    - 1660
+    - 1919
+  label: 內障總名歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d12
+    span:
+    - body
+    - 1919
+    - 2463
+  label: 內障初患久變五風歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d13
+    span:
+    - body
+    - 2463
+    - 2561
+  label: 五風初患有餘歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d14
+    span:
+    - body
+    - 2561
+    - 2663
+  label: 五風初患不足歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d15
+    span:
+    - body
+    - 2663
+    - 2755
+  label: 黃風有餘歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d16
+    span:
+    - body
+    - 2755
+    - 2828
+  label: 黃風不足歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d17
+    span:
+    - body
+    - 2828
+    - 2926
+  label: 綠風有餘歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d18
+    span:
+    - body
+    - 2926
+    - 3025
+  label: 綠風不足歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d19
+    span:
+    - body
+    - 3025
+    - 3126
+  label: 黑風有餘歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d20
+    span:
+    - body
+    - 3126
+    - 3215
+  label: 黑風不足歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d21
+    span:
+    - body
+    - 3215
+    - 3302
+  label: 烏風有餘歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d22
+    span:
+    - body
+    - 3302
+    - 3381
+  label: 烏風不足歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d23
+    span:
+    - body
+    - 3381
+    - 3469
+  label: 青風有餘歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d24
+    span:
+    - body
+    - 3469
+    - 3547
+  label: 青風不足歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d25
+    span:
+    - body
+    - 3547
+    - 3810
+  label: 圓翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d26
+    span:
+    - body
+    - 3810
+    - 4063
+  label: 冰翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d27
+    span:
+    - body
+    - 4063
+    - 4339
+  label: 滑翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d28
+    span:
+    - body
+    - 4339
+    - 4573
+  label: 澀翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d29
+    span:
+    - body
+    - 4573
+    - 4821
+  label: 浮翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d30
+    span:
+    - body
+    - 4821
+    - 5140
+  label: 沉翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d31
+    span:
+    - body
+    - 5140
+    - 5375
+  label: 橫翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d32
+    span:
+    - body
+    - 5375
+    - 5593
+  label: 散翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d33
+    span:
+    - body
+    - 5593
+    - 5809
+  label: 偃月翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d34
+    span:
+    - body
+    - 5809
+    - 5976
+  label: 白翳黃心歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d35
+    span:
+    - body
+    - 5976
+    - 6209
+  label: 黑水凝翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d36
+    span:
+    - body
+    - 6209
+    - 6374
+  label: 棗花翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d37
+    span:
+    - body
+    - 6374
+    - 6609
+  label: 雷頭風歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d38
+    span:
+    - body
+    - 6609
+    - 6838
+  label: 驚振內障歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d39
+    span:
+    - body
+    - 6838
+    - 7084
+  label: 瞳仁幹缺歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d40
+    span:
+    - body
+    - 7084
+    - 7314
+  label: 雀目內障歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d41
+    span:
+    - body
+    - 7314
+    - 7572
+  label: 高風內障歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu023_jc_001-d2d42
+    span:
+    - body
+    - 7572
+    - 7689
+  label: 胎患內障歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 8891
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 516
+  label: 外障總名歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d3
+    span:
+    - body
+    - 516
+    - 768
+  label: 暴赤生翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d4
+    span:
+    - body
+    - 768
+    - 971
+  label: 血灌瞳仁歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d5
+    span:
+    - body
+    - 971
+    - 1125
+  label: 瞼硬睛疼歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d6
+    span:
+    - body
+    - 1125
+    - 1270
+  label: 赤膜下垂歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d7
+    span:
+    - body
+    - 1270
+    - 1498
+  label: 黃膜上衝歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d8
+    span:
+    - body
+    - 1498
+    - 1741
+  label: 蟹睛疼痛歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d9
+    span:
+    - body
+    - 1741
+    - 1957
+  label: 旋螺尖起歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d10
+    span:
+    - body
+    - 1957
+    - 2152
+  label: 胬肉攀睛歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d11
+    span:
+    - body
+    - 2152
+    - 2404
+  label: 雞冠蜆肉歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d12
+    span:
+    - body
+    - 2404
+    - 2560
+  label: 神祟疼痛歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d13
+    span:
+    - body
+    - 2560
+    - 2761
+  label: 突起睛高歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d14
+    span:
+    - body
+    - 2761
+    - 2955
+  label: 漏睛膿出歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d15
+    span:
+    - body
+    - 2955
+    - 3113
+  label: 鶻眼凝晴歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d16
+    span:
+    - body
+    - 3113
+    - 3276
+  label: 倒睫拳毛歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d17
+    span:
+    - body
+    - 3276
+    - 3380
+  label: 胞肉膠凝歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d18
+    span:
+    - body
+    - 3380
+    - 3575
+  label: 兩眥赤脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d19
+    span:
+    - body
+    - 3575
+    - 3742
+  label: 花翳白陷歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d20
+    span:
+    - body
+    - 3742
+    - 3935
+  label: 黑翳如珠歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d21
+    span:
+    - body
+    - 3935
+    - 4085
+  label: 釘翳根深歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d22
+    span:
+    - body
+    - 4085
+    - 4215
+  label: 風牽喎僻歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d23
+    span:
+    - body
+    - 4215
+    - 4381
+  label: 冰瑕翳深歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d24
+    span:
+    - body
+    - 4381
+    - 4604
+  label: 兩瞼黏睛歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d25
+    span:
+    - body
+    - 4604
+    - 4723
+  label: 玉翳浮滿歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d26
+    span:
+    - body
+    - 4723
+    - 4881
+  label: 膜入水輪歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d27
+    span:
+    - body
+    - 4881
+    - 5023
+  label: 逆順生翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d28
+    span:
+    - body
+    - 5023
+    - 5179
+  label: 風牽瞼出歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d29
+    span:
+    - body
+    - 5179
+    - 5379
+  label: 瞼生風粟椒瘡歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d30
+    span:
+    - body
+    - 5379
+    - 5640
+  label: 混睛歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d31
+    span:
+    - body
+    - 5640
+    - 5762
+  label: 被物撞破歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d32
+    span:
+    - body
+    - 5762
+    - 5894
+  label: 撞刺生翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d33
+    span:
+    - body
+    - 5894
+    - 6053
+  label: 痛如針刺歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d34
+    span:
+    - body
+    - 6053
+    - 6195
+  label: 眼癢歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d35
+    span:
+    - body
+    - 6195
+    - 6424
+  label: 衝風淚出歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d36
+    span:
+    - body
+    - 6424
+    - 6594
+  label: 風赤瘡痍歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d37
+    span:
+    - body
+    - 6594
+    - 6689
+  label: 暴風客熱歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d38
+    span:
+    - body
+    - 6689
+    - 6832
+  label: 傷寒熱病後患目歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d39
+    span:
+    - body
+    - 6832
+    - 6997
+  label: 肝虛積熱歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d40
+    span:
+    - body
+    - 6997
+    - 7225
+  label: 因他患後生翳歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d41
+    span:
+    - body
+    - 7225
+    - 7380
+  label: 睥生痰核歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d42
+    span:
+    - body
+    - 7380
+    - 7555
+  label: 天行赤眼歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d43
+    span:
+    - body
+    - 7555
+    - 7715
+  label: 小兒青盲歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d44
+    span:
+    - body
+    - 7715
+    - 7839
+  label: 胎風赤爛歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d45
+    span:
+    - body
+    - 7839
+    - 8001
+  label: 癍瘡入眼歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d46
+    span:
+    - body
+    - 8001
+    - 8244
+  label: 轆轤轉關歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d47
+    span:
+    - body
+    - 8244
+    - 8398
+  label: 小兒生贅歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d48
+    span:
+    - body
+    - 8398
+    - 8536
+  label: 小兒疳眼歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d49
+    span:
+    - body
+    - 8536
+    - 8736
+  label: 小兒通睛歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu023_jc_002-d3d50
+    span:
+    - body
+    - 8736
+    - 8891
+  label: 眯目飛塵飛絲歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 1959
+  label: 補遺
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4d2
+    span:
+    - body
+    - 2
+    - 137
+  label: 能遠怯近歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4d3
+    span:
+    - body
+    - 137
+    - 300
+  label: 能近怯遠歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4d4
+    span:
+    - body
+    - 300
+    - 528
+  label: 瞳神散大歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4d5
+    span:
+    - body
+    - 528
+    - 731
+  label: 瞳神縮小歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4d6
+    span:
+    - body
+    - 731
+    - 914
+  label: 乾澀昏花歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4d7
+    span:
+    - body
+    - 914
+    - 1123
+  label: 白眼痛歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4d8
+    span:
+    - body
+    - 1123
+    - 1296
+  label: 女子逆經歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4d9
+    span:
+    - body
+    - 1296
+    - 1483
+  label: 行經目痛歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4d10
+    span:
+    - body
+    - 1483
+    - 1733
+  label: 妊娠目病歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d4d11
+    span:
+    - body
+    - 1733
+    - 1959
+  label: 產後病目歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu023_jc_000-d5.h1s1
+    span:
+    - body
+    - 1959
+    - 2769
+  label: 附外治方
+  type: section
+  level: 1
+hash: sha256:ec873af28312fb3e3dedcc00121c3f1e58416594eacf3dab06138196822502f2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
