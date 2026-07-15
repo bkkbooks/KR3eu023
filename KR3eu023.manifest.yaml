@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eu023/v1
 canonical_location: https://kanripo.org/bkk/KR3eu023/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫宗金鑑·眼科心法要訣
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3eu023_001.yaml, hash: 'sha256:4c68a789c7c7cfbf5e494630c1b5bf8a15a9c307326eb49c634ed63e32f72782'}
-  - {seq: 2, filename: KR3eu023_002.yaml, hash: 'sha256:7b6edb36b85f99902896de624be8db7442f11cea0a0bebdb7e98eadcc366edac'}
-  - {seq: 0, filename: KR3eu023_000.yaml, hash: 'sha256:0a48e6ab36cb215f8494fb5d26f0368f4a93f6cc72c108547a0e7313c6d4c11c'}
+  - {seq: 1, filename: KR3eu023_001.yaml, hash: 'sha256:c723902df484fc9c58ac85a968d951b3cc0d6178477ed1848f27d496741fbf62'}
+  - {seq: 2, filename: KR3eu023_002.yaml, hash: 'sha256:177264d49e16766e3f59150826a57a08e8dba031ac5fe4762036b76e22939cd0'}
+  - {seq: 0, filename: KR3eu023_000.yaml, hash: 'sha256:755250ac62583e1a9c01f208191d96769802f99576c009279778de7cafc2366a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eu023_001.markers.yaml, hash: 'sha256:df87fe2d568074d602d5ab01ae767dd30c0ff7da6cd1fd4ca957c70e6f81d015'}
-  - {seq: 2, role: markers, filename: assets/KR3eu023_002.markers.yaml, hash: 'sha256:11df1784c06d174af48687f33d8b25142b4510bafd502b8f5b7333a902351d8c'}
-  - {seq: 0, role: markers, filename: assets/KR3eu023_000.markers.yaml, hash: 'sha256:b1468316c3cc4b464863cca44aced0cc6a8d8c33a0d0f8e7a6d97c6fc8af87f2'}
+  - {seq: 1, role: markers, filename: assets/KR3eu023_001.markers.yaml, hash: 'sha256:d8fe24c741bd1c45ba68e35ec9ea7da4b6b988ce30cf50a2c39931eb184da9f2'}
+  - {seq: 2, role: markers, filename: assets/KR3eu023_002.markers.yaml, hash: 'sha256:bfb41db5d8f94e4b4e0f7138de8b6ce623ac75941b78668befb20a424f711470'}
+  - {seq: 0, role: markers, filename: assets/KR3eu023_000.markers.yaml, hash: 'sha256:2088155155280558d5cc749bf0b537f17fb85e5445e6538b5d457f008e2c30ce'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1065,4 +1065,7 @@ table_of_contents:
   label: 附外治方
   type: section
   level: 1
-hash: sha256:e1d31073b6e2245f426613ec1ae2e8cdb2bffd96b8e08f55df302c5e8e54eb42
+hash: sha256:07f00318fd4a1bdc073d0f7ee0ded1df920b5a3b252f8877266ffc41917c933f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
